@@ -19,7 +19,7 @@ public class Display extends JFrame {
     }
 
     private void init(Dimension screenDimension) {
-        setTitle("Test Chess");
+        setTitle("Game Structure");
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setResizable(false);
 
